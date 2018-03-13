@@ -4,12 +4,12 @@
 mkdir -p /tmp/finddiff
 
 #first find
-cd $1
+cd "$1"
 find ./ | sort -d > /tmp/finddiff/finddiff1.txt
 cd - > /dev/null
 
 #second find
-cd $2
+cd "$2"
 find ./ | sort -d > /tmp/finddiff/finddiff2.txt
 cd - > /dev/null
 
