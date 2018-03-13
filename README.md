@@ -11,7 +11,7 @@ $ findiff path/directory_1 path/directory_2
 
 ## playlistphone
 Create your playlist on your laptop, enjoy it on your phone !  
-With playlistphone, you can fastly adapte a XSPF file for your phone or other computer. Edite playlistphone.vim to chose the new path of your albums used in your playlist. 
+With playlistphone, you can fastly adapte a XSPF file for your phone or other computer. Edite playlistphone.sh to chose the new path of your albums used in your playlist. 
 Note that music folders have to be identical. You can be sure about that with the __findiff__ script. 
 Example 
 <code>
