@@ -18,18 +18,21 @@ Example
 playlistphone file.xspf
 ```
 ## trustedcard
-Decode Trusted Card.
-  a b c d e f g h i j
-  -------------------
-1|s f d f 4 8 r 6 e v
-2|e f 5 4 d s 3 f 5 f
-3|f e r v d 8 4 e 3 9
-4|a 8 7 p i h 2 1 d k
-5|s d z 8 4 6 a 1 3 a
-
-The card text file have to be like a matrix:
-sfdf48r6ev
-ef54ds3f5f
-fervd84e39
-a87pih21dk
-sdz846a13a
+Decode Trusted Card.  
+```
+  a b c d e f g h i j  
+  -------------------  
+1|s f d f 4 8 r 6 e v  
+2|e f 5 4 d s 3 f 5 f  
+3|f e r v d 8 4 e 3 9  
+4|a 8 7 p i h 2 1 d k  
+5|s d z 8 4 6 a 1 3 a  
+```
+The card text file have to be like a matrix:  
+```
+sfdf48r6ev  
+ef54ds3f5f  
+fervd84e39  
+a87pih21dk  
+sdz846a13a  
+```
