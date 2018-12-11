@@ -17,8 +17,8 @@ Example
 ```sh
 playlistphone file.xspf
 ```
-## trustedcard
-Decode Trusted Card.  
+## entrustcard
+Decode Entrust Card.  
 ```
   a b c d e f g h i j  
   -------------------  
